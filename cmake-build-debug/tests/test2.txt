@@ -1,6 +1,6 @@
 1
-dub
+dub 54
 2
-kust
+kust 0
 3
-rosa
+rosa 2

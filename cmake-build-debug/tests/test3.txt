@@ -1,14 +1,14 @@
 1
-oak
+oak 9
 1
-oak
+oak 51
 1
-birch
+birch 12
 1
-oak
+oak 17
 1
-birch
+birch 90
 1
-ash
+ash 3000
 1
-pine
+pine 228

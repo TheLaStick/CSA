@@ -14,6 +14,7 @@ using namespace std;
 struct tree {
     char* name; // tree name
     int length; // name length
+    int64_t age; // tree age
 };
 
 // Tree parameters input from file

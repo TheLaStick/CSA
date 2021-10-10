@@ -1,9 +1,9 @@
 Filled container:
 Container contains 7 elements.
-0: It is Tree: name = oak. Fraction = 0.666667
-1: It is Tree: name = oak. Fraction = 0.666667
-2: It is Tree: name = birch. Fraction = 0.2
-3: It is Tree: name = oak. Fraction = 0.666667
-4: It is Tree: name = birch. Fraction = 0.2
-5: It is Tree: name = ash. Fraction = 0.333333
-6: It is Tree: name = pine. Fraction = 0.5
+0: It is Tree: name = oak. Age = 9. Fraction = 0.666667
+1: It is Tree: name = oak. Age = 51. Fraction = 0.666667
+2: It is Tree: name = birch. Age = 12. Fraction = 0.2
+3: It is Tree: name = oak. Age = 17. Fraction = 0.666667
+4: It is Tree: name = birch. Age = 90. Fraction = 0.2
+5: It is Tree: name = ash. Age = 3000. Fraction = 0.333333
+6: It is Tree: name = pine. Age = 228. Fraction = 0.5

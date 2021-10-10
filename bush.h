@@ -14,6 +14,13 @@ using namespace std;
 struct bush {
     char* name; // bush name
     int length; // name length
+    enum month {
+        SEPTEMBER,
+        SPOOKTOBER,
+        NONUTNOVEMBER,
+        INCORRECT_MONTH
+    };
+    month month;
 };
 
 // Bush parameters input from file

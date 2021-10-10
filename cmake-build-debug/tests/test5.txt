@@ -1,18 +1,18 @@
 1
-one
+one 54
 2
-two
+two 2
 3
-three
+three 1
 1
-four
+four 1000
 2
-five
+five 2
 3
-six
+six 1
 1
-seven
+seven 21321
 2
-eight
+eight 0
 3
-nine
+nine 0

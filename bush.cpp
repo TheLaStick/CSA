@@ -11,6 +11,21 @@ void In(bush& b, ifstream& ifst) {
     b.name = new char[10];
     ifst >> b.name;
     b.length = strlen(b.name);
+    int month_number;
+    ifst >> month_number;
+    switch (month_number) {
+        case b.SEPTEMBER:
+            b.month = bush::SEPTEMBER;
+            break;
+        case b.SPOOKTOBER:
+            b.month = bush::SPOOKTOBER;
+            break;
+        case b.NONUTNOVEMBER:
+            b.month = bush::NONUTNOVEMBER;
+            break;
+        default:
+            b.month = bush::INCORRECT_MONTH;
+    }
 }
 
 // Random bush parameters input
@@ -22,6 +37,7 @@ void InRnd(bush& b) {
 // Bush parameters output in formative stream
 void Out(bush& b, ofstream& ofst) {
     ofst << "It is Bush: name = " << b.name <<
+         ". Month = " << b.month <<
          ". Fraction = " << Fraction(b) << "\n";
 }
 

@@ -14,6 +14,13 @@ using namespace std;
 struct flower {
     char* name; // flower name
     int length; // name lengths
+    enum type {
+        HOME,
+        GARDEN,
+        WILD,
+        INCORRECT_TYPE
+    };
+    type type;
 };
 
 // Flower parameters input from file

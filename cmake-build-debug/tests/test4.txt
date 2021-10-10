@@ -1,12 +1,12 @@
 2
-kust
+kust 1
 2
-lol
+lol 2
 2
-tupoikust
+tupoikust 9
 2
-avs
+avs 10
 2
-sweet
+sweet 1
 2
-notbirch
+notbirch 0

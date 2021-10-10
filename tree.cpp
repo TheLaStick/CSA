@@ -11,6 +11,7 @@ void In(tree& t, ifstream& ifst) {
     t.name = new char[10];
     ifst >> t.name;
     t.length = strlen(t.name);
+    ifst >> t.age;
 }
 
 // Random tree parameters input
@@ -22,6 +23,7 @@ void InRnd(tree& t) {
 // Tree parameters output in formative stream
 void Out(tree& t, ofstream& ofst) {
     ofst << "It is Tree: name = " << t.name <<
+         ". Age = " << t.age <<
          ". Fraction = " << Fraction(t) << "\n";
 }
 
