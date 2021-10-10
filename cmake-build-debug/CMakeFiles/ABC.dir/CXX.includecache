@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/ABC/bush.h
+fstream
+-
+rnd.h
+C:/Users/ASUS/CLionProjects/ABC/rnd.h
+
+C:/Users/ASUS/CLionProjects/ABC/container.cpp
+container.h
+C:/Users/ASUS/CLionProjects/ABC/container.h
+
+C:/Users/ASUS/CLionProjects/ABC/container.h
+plant.h
+C:/Users/ASUS/CLionProjects/ABC/plant.h
+
+C:/Users/ASUS/CLionProjects/ABC/flower.h
+fstream
+-
+rnd.h
+C:/Users/ASUS/CLionProjects/ABC/rnd.h
+
+C:/Users/ASUS/CLionProjects/ABC/plant.h
+tree.h
+C:/Users/ASUS/CLionProjects/ABC/tree.h
+bush.h
+C:/Users/ASUS/CLionProjects/ABC/bush.h
+flower.h
+C:/Users/ASUS/CLionProjects/ABC/flower.h
+
+C:/Users/ASUS/CLionProjects/ABC/rnd.h
+cstdlib
+-
+
+C:/Users/ASUS/CLionProjects/ABC/tree.h
+fstream
+-
+rnd.h
+C:/Users/ASUS/CLionProjects/ABC/rnd.h
+
