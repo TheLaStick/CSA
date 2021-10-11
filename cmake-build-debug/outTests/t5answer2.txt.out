@@ -1,0 +1,5 @@
+Container contains 4 elements.
+0: It is Tree: name = one. Age = 54. Fraction = 0.666667
+1: It is Tree: name = four. Age = 1000. Fraction = 0.5
+2: It is Bush: name = five. Month = 2. Fraction = 0.5
+3: It is Flower: name = nine. Type = 0. Fraction = 0.5
