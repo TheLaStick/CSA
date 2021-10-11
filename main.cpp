@@ -4,7 +4,6 @@
 //------------------------------------------------------------------------------
 
 #include <iostream>
-#include <fstream>
 #include <cstdlib> // for rand() and srand()
 #include <ctime>   // for time()
 #include <cstring>
